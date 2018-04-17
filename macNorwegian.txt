@@ -1,0 +1,12 @@
+[caps]>[escape]
+[\]>[cbrack]
+[cbrack]>[obrack]
+[scroll]>[shutdn]
+[lalt]>[lctrl]
+[obrack]>[\]
+[lctrl]>[lwin]
+[delete]>[lalt]
+[ralt]>[rctrl]
+{lshift}{bspace}>{delete}
+{\}>{-lalt}{cbrack}{+lalt}
+{lalt}{\}>{lalt}{cbrack}

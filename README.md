@@ -25,8 +25,19 @@ the drive is closed.
 5. You now have a copy of the layout you were in. (progm + shift + F9 to soft reset to basic DVORAK or QWERTY)
 
 
-### Activate the hotkey layouts
+## Changing an existing layouts
+1. Edit the file.
+2. Save the file.
+3. Close v-disk (progm + F1)
+
+Changes should now be in effect.
+
+## Activate the hotkey layouts
 To activate the layouts you do not need to be in PUM. Press progm + <chosen key> to activate the layout.
 
+
+
 ## My layouts
-- Dvorak layout for mac with Norwegian Keyboard layout. (progm + a)
+- Dvorak layout for mac with Norwegian Keyboard layout. (progm + a).
+File on v-drive: a_dvorak.txt
+File in repo: macNorwegian.txt

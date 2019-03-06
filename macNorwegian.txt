@@ -7,10 +7,11 @@
 [`]>[=]
 [lalt]>[lctrl]
 [lctrl]>[lwin]
-[rctrl]>[lwin]
 [delete]>[lalt]
 [ralt]>[rctrl]
 [caps]>[escape]
+[home]>[space]
+[end]>[space]
 {lshift}{bspace}>{delete}
 {cbrack}>{-lalt}{cbrack}{+lalt}
 {lalt}{\}>{lalt}{cbrack}

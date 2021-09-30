@@ -27,8 +27,10 @@ the drive is closed.
 
 ## Changing an existing layouts
 1. Edit the file.
+    1. ON mac: `cat Code/KinesisAdvantage2LayoutHelp/macNorwegian.txt > /Volumes/ADVANTAGE2/active/1_dvorak.txt`
 2. Save the file.
-3. Close v-disk (progm + F1)
+3. Eject the v-drive.
+4. Close v-disk (progm + F1)
 
 Changes should now be in effect.
 
